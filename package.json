@@ -18,7 +18,7 @@
    ".": {
      "svelte": "./dist/index.js"
    }
-  }
+  },
   "homepage": "https://github.com/vadimkorr/svelte-carousel#readme",
   "keywords": [
     "svelte",
